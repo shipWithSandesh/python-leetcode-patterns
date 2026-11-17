@@ -47,6 +47,16 @@ for f in solutions/*.py; do python "$f"; done
 | 23 | bit_manipulation.py | Bit Manipulation | 136. Single Number (+338 Counting Bits) | Easy |
 | 24 | two_heaps.py | Two Heaps | 295. Find Median from Data Stream | Hard |
 | 25 | tree_traversal.py | Tree DFS | 98. Validate Binary Search Tree | Medium |
+| 26 | dijkstra.py | Dijkstra / Shortest Path | 743. Network Delay Time | Medium |
+| 27 | monotonic_queue.py | Monotonic Queue | 239. Sliding Window Maximum | Hard |
+| 28 | matrix_traversal.py | Matrix Traversal | 54. Spiral Matrix | Medium |
+| 29 | two_pointer_3sum.py | Two Pointers | 15. 3Sum | Medium |
+| 30 | sliding_window_min_window_substring.py | Sliding Window | 76. Minimum Window Substring | Hard |
+| 31 | binary_search_koko_bananas.py | Binary Search on Answer | 875. Koko Eating Bananas | Medium |
+| 32 | bfs_binary_tree_level_order.py | BFS (Tree Levels) | 102. Binary Tree Level Order Traversal | Medium |
+| 33 | dp_on_trees.py | DP on Trees | 337. House Robber III | Medium |
+| 34 | design.py | Design | 146. LRU Cache | Medium |
+| 35 | hashing_two_sum.py | Hashing | 1. Two Sum | Easy |
 
 ## Suggested learning order
 
