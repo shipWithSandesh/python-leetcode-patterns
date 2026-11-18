@@ -57,6 +57,16 @@ for f in solutions/*.py; do python "$f"; done
 | 33 | dp_on_trees.py | DP on Trees | 337. House Robber III | Medium |
 | 34 | design.py | Design | 146. LRU Cache | Medium |
 | 35 | hashing_two_sum.py | Hashing | 1. Two Sum | Easy |
+| 36 | merge_intervals_insert_interval.py | Intervals | 57. Insert Interval | Medium |
+| 37 | sliding_window_char_replacement.py | Sliding Window | 424. Longest Repeating Character Replacement | Medium |
+| 38 | two_pointer_container_most_water.py | Two Pointers | 11. Container With Most Water | Medium |
+| 39 | binary_search_find_min_rotated.py | Binary Search | 153. Find Minimum in Rotated Sorted Array | Medium |
+| 40 | monotonic_stack_largest_rectangle.py | Monotonic Stack | 84. Largest Rectangle in Histogram | Hard |
+| 41 | top_k_elements_kth_largest.py | Top K Elements | 215. Kth Largest Element in an Array | Medium |
+| 42 | backtracking_subsets.py | Backtracking | 78. Subsets | Medium |
+| 43 | dynamic_programming_1d_coin_change.py | Dynamic Programming (1D) | 322. Coin Change | Medium |
+| 44 | hashing_longest_consecutive.py | Hashing | 128. Longest Consecutive Sequence | Medium |
+| 45 | stack.py | Stack | 20. Valid Parentheses | Easy |
 
 ## Suggested learning order
 
