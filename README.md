@@ -67,6 +67,16 @@ for f in solutions/*.py; do python "$f"; done
 | 43 | dynamic_programming_1d_coin_change.py | Dynamic Programming (1D) | 322. Coin Change | Medium |
 | 44 | hashing_longest_consecutive.py | Hashing | 128. Longest Consecutive Sequence | Medium |
 | 45 | stack.py | Stack | 20. Valid Parentheses | Easy |
+| 46 | design_min_stack.py | Design (augmented data structure) | 155. Min Stack | Medium |
+| 47 | intervals_non_overlapping.py | Intervals | 435. Non-overlapping Intervals | Medium |
+| 48 | backtracking_permutations.py | Backtracking | 46. Permutations | Medium |
+| 49 | dynamic_programming_lis.py | Dynamic Programming (Binary Search) | 300. Longest Increasing Subsequence | Medium |
+| 50 | greedy_best_time_to_buy_sell_stock.py | Greedy / One Pass | 121. Best Time to Buy and Sell Stock | Easy |
+| 51 | prefix_sum_product_except_self.py | Prefix Sum | 238. Product of Array Except Self | Medium |
+| 52 | two_pointer_trapping_rain_water.py | Two Pointers | 42. Trapping Rain Water | Hard |
+| 53 | linked_list_remove_nth_node.py | Linked List (Fast/Slow Pointers) | 19. Remove Nth Node From End of List | Medium |
+| 54 | string_longest_palindromic_substring.py | Strings (Expand Around Center) | 5. Longest Palindromic Substring | Medium |
+| 55 | tree_lowest_common_ancestor.py | Trees (DFS) | 236. Lowest Common Ancestor of a Binary Tree | Medium |
 
 ## Suggested learning order
 
