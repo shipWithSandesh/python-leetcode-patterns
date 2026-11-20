@@ -77,6 +77,16 @@ for f in solutions/*.py; do python "$f"; done
 | 53 | linked_list_remove_nth_node.py | Linked List (Fast/Slow Pointers) | 19. Remove Nth Node From End of List | Medium |
 | 54 | string_longest_palindromic_substring.py | Strings (Expand Around Center) | 5. Longest Palindromic Substring | Medium |
 | 55 | tree_lowest_common_ancestor.py | Trees (DFS) | 236. Lowest Common Ancestor of a Binary Tree | Medium |
+| 56 | backtracking_word_search.py | Backtracking (grid DFS) | 79. Word Search | Medium |
+| 57 | dynamic_programming_2d_edit_distance.py | Dynamic Programming (2D, two strings) | 72. Edit Distance | Hard |
+| 58 | dp_on_trees_max_path_sum.py | DP on Trees (post-order DFS) | 124. Binary Tree Maximum Path Sum | Hard |
+| 59 | topological_sort_course_schedule_ii.py | Topological Sort (Kahn BFS) | 210. Course Schedule II | Medium |
+| 60 | union_find_redundant_connection.py | Union Find (cycle detection) | 684. Redundant Connection | Medium |
+| 61 | dijkstra_path_min_effort.py | Dijkstra (grid, minimax path) | 1631. Path With Minimum Effort | Medium |
+| 62 | graph_bellman_ford_cheapest_flights.py | Bellman-Ford (bounded edges) | 787. Cheapest Flights Within K Stops | Medium |
+| 63 | matrix_rotate_image.py | Matrix (in-place transform) | 48. Rotate Image | Medium |
+| 64 | matrix_set_zeroes.py | Matrix (in-place markers) | 73. Set Matrix Zeroes | Medium |
+| 65 | string_palindromic_substrings.py | Strings (Expand Around Center) | 647. Palindromic Substrings | Medium |
 
 ## Suggested learning order
 
