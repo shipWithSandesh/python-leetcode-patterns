@@ -87,6 +87,16 @@ for f in solutions/*.py; do python "$f"; done
 | 63 | matrix_rotate_image.py | Matrix (in-place transform) | 48. Rotate Image | Medium |
 | 64 | matrix_set_zeroes.py | Matrix (in-place markers) | 73. Set Matrix Zeroes | Medium |
 | 65 | string_palindromic_substrings.py | Strings (Expand Around Center) | 647. Palindromic Substrings | Medium |
+| 66 | dp_max_subarray.py | DP (Kadane) | 53. Maximum Subarray | Medium |
+| 67 | dp_max_product_subarray.py | DP (min/max tracking) | 152. Maximum Product Subarray | Medium |
+| 68 | dp_climbing_stairs.py | DP (1D) | 70. Climbing Stairs | Easy |
+| 69 | two_pointer_move_zeroes.py | Two Pointers (read/write) | 283. Move Zeroes | Easy |
+| 70 | tree_diameter.py | Trees (DFS) | 543. Diameter of Binary Tree | Easy |
+| 71 | tree_build_from_preorder_inorder.py | Trees (divide and conquer) | 105. Construct Binary Tree from Preorder and Inorder Traversal | Medium |
+| 72 | dp_word_break.py | DP (prefix reachability) | 139. Word Break | Medium |
+| 73 | backtracking_letter_combinations.py | Backtracking | 17. Letter Combinations of a Phone Number | Medium |
+| 74 | binary_search_first_last_position.py | Binary Search (bounds) | 34. Find First and Last Position of Element in Sorted Array | Medium |
+| 75 | linked_list_reverse_k_group.py | Linked List (k-group reversal) | 25. Reverse Nodes in k-Group | Hard |
 
 ## Suggested learning order
 
