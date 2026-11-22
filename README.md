@@ -97,6 +97,16 @@ for f in solutions/*.py; do python "$f"; done
 | 73 | backtracking_letter_combinations.py | Backtracking | 17. Letter Combinations of a Phone Number | Medium |
 | 74 | binary_search_first_last_position.py | Binary Search (bounds) | 34. Find First and Last Position of Element in Sorted Array | Medium |
 | 75 | linked_list_reverse_k_group.py | Linked List (k-group reversal) | 25. Reverse Nodes in k-Group | Hard |
+| 76 | backtracking_generate_parentheses.py | Backtracking | 22. Generate Parentheses | Medium |
+| 77 | backtracking_palindrome_partitioning.py | Backtracking | 131. Palindrome Partitioning | Medium |
+| 78 | dp_decode_ways.py | DP (1D) | 91. Decode Ways | Medium |
+| 79 | dynamic_programming_2d_unique_paths.py | DP (2D) | 62. Unique Paths | Medium |
+| 80 | binary_search_2d_matrix.py | Binary Search (virtual array) | 74. Search a 2D Matrix | Medium |
+| 81 | stack_decode_string.py | Stack | 394. Decode String | Medium |
+| 82 | stack_evaluate_rpn.py | Stack | 150. Evaluate Reverse Polish Notation | Medium |
+| 83 | tree_invert_binary_tree.py | Trees (DFS) | 226. Invert Binary Tree | Easy |
+| 84 | dfs_max_area_of_island.py | DFS (grid) | 695. Max Area of Island | Medium |
+| 85 | linked_list_merge_two_sorted.py | Linked List | 21. Merge Two Sorted Lists | Easy |
 
 ## Suggested learning order
 
