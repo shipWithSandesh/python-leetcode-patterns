@@ -107,6 +107,16 @@ for f in solutions/*.py; do python "$f"; done
 | 83 | tree_invert_binary_tree.py | Trees (DFS) | 226. Invert Binary Tree | Easy |
 | 84 | dfs_max_area_of_island.py | DFS (grid) | 695. Max Area of Island | Medium |
 | 85 | linked_list_merge_two_sorted.py | Linked List | 21. Merge Two Sorted Lists | Easy |
+| 86 | boyer_moore_majority_element.py | Boyer-Moore Voting | 169. Majority Element | Easy |
+| 87 | hashing_contains_duplicate.py | Hashing | 217. Contains Duplicate | Easy |
+| 88 | hashing_valid_anagram.py | Hashing | 242. Valid Anagram | Easy |
+| 89 | binary_search_basic.py | Binary Search | 704. Binary Search | Easy |
+| 90 | binary_search_sqrt.py | Binary Search | 69. Sqrt(x) | Easy |
+| 91 | tree_kth_smallest_bst.py | Trees (BST) | 230. Kth Smallest Element in a BST | Medium |
+| 92 | bfs_right_side_view.py | BFS | 199. Binary Tree Right Side View | Medium |
+| 93 | knapsack_target_sum.py | 0/1 Knapsack | 494. Target Sum | Medium |
+| 94 | dp_house_robber_ii.py | DP (1D) | 213. House Robber II | Medium |
+| 95 | merge_intervals_min_arrows.py | Intervals | 452. Minimum Number of Arrows to Burst Balloons | Medium |
 
 ## Suggested learning order
 
