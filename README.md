@@ -117,6 +117,16 @@ for f in solutions/*.py; do python "$f"; done
 | 93 | knapsack_target_sum.py | 0/1 Knapsack | 494. Target Sum | Medium |
 | 94 | dp_house_robber_ii.py | DP (1D) | 213. House Robber II | Medium |
 | 95 | merge_intervals_min_arrows.py | Intervals | 452. Minimum Number of Arrows to Burst Balloons | Medium |
+| 96 | linked_list_reorder_list.py | Linked List | 143. Reorder List | Medium |
+| 97 | design_randomized_set.py | Design | 380. Insert Delete GetRandom O(1) | Medium |
+| 98 | trie_add_search_word.py | Trie | 211. Design Add and Search Words Data Structure | Medium |
+| 99 | merge_intervals_meeting_rooms_ii.py | Intervals + Heap | 253. Meeting Rooms II | Medium |
+| 100 | dfs_clone_graph.py | DFS | 133. Clone Graph | Medium |
+| 101 | dfs_pacific_atlantic.py | DFS | 417. Pacific Atlantic Water Flow | Medium |
+| 102 | dp_stock_cooldown.py | DP (state machine) | 309. Best Time to Buy and Sell Stock with Cooldown | Medium |
+| 103 | tree_balanced.py | Trees | 110. Balanced Binary Tree | Easy |
+| 104 | binary_search_find_peak.py | Binary Search | 162. Find Peak Element | Medium |
+| 105 | bit_manipulation_counting_bits.py | Bit Manipulation | 338. Counting Bits | Easy |
 
 ## Suggested learning order
 
